@@ -512,7 +512,7 @@ do
 			Name = "Notification",
 			Parent = self.container,
 			BackgroundTransparency = 1,
-			Size = UDim2.new(0, 200, 0, 60),
+			Size = UDim2.new(100, 200, 0, 60),
 			Image = "rbxassetid://5028857472",
 			ImageColor3 = themes.Background,
 			ScaleType = Enum.ScaleType.Slice,
